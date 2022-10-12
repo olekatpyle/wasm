@@ -1,0 +1,1 @@
+Wasm deploy on Vercel?
